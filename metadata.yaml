@@ -1,5 +1,8 @@
 _repo: Kasba-White-Partridge-A-Story-of-Hudson-Bay_53176
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53176-h/images/cover.jpg
 creator:
   author:
     agent_name: Ray, George R.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47250'
     url: http://www.gutenberg.org/2009/agents/47250
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53176#Kasba-White-Partridge-A-Story-of-Hudson-Bay
 gutenberg_issued: '2016-09-30'
 gutenberg_type: Text
 identifiers:
