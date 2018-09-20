@@ -1,0 +1,26 @@
+_repo: Kasba-White-Partridge-A-Story-of-Hudson-Bay_53176
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ray, George R.
+    alias: Ray, George Raymond (Holman)
+    birthdate: 1869
+    deathdate: 1935
+    gutenberg_agent_id: '47250'
+    url: http://www.gutenberg.org/2009/agents/47250
+description: ''
+gutenberg_issued: '2016-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53176'
+  lccn: '15011998'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hudson Bay -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Kasba (White Partridge): A Story of Hudson Bay'
+url: http://www.gutenberg.org/ebooks/53176
